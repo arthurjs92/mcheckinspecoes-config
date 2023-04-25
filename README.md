@@ -1,0 +1,1 @@
+# mcheckinspecoes-config
